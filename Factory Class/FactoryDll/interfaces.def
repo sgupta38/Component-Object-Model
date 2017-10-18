@@ -1,0 +1,4 @@
+LIBRARY	"FactoryDll"
+EXPORTS
+DllGetClassObject private
+DllCanUnloadNow private
