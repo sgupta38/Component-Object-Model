@@ -1,13 +1,12 @@
 Caveate: To make things simple I have created this 'RegistryUpdator.exe'.
-      Internally it copies the provided 'FactoryClass.dll' at C:\Windows\SysWOW64 location
-      and creates appropriate entries in registry.
+         Internally it copies the provided 'FactoryClass.dll' at C:\Windows\SysWOW64 location
+         and creates appropriate entries in registry.
 
-prerequisite: I am assuming you all are building 32-bit DLL.[Currently support for registrying 64-bit DLL is not provided.]
+Prerequisite: I am assuming you all are building 32-bit DLL.[Currently support for registrying 64-bit DLL is not provided.]
 
 Once both solutions are built successfully, follow the steps:
 
 Use these steps cautiously because they are ultimately going to edit your 'REGISTRY' [Windows Heart ;)]
-
 1] Double Click the RegistryUpdator.exe
 2] Enter the Class Guid i.e, CLSID as mentioned in interface.h file in the dash format i.e, ]0B61EC71-3103-4025-ABE7-789A0E525DBB]
 3] Next, Click 'Browse' and select the FactoryClass.dll
