@@ -9,4 +9,5 @@
   COM is used in applications such as the Microsoft Office Family of products. For example COM OLE technology allows Word documents to dynamically link to data in Excel spreadsheets and COM Automation allows users to build scripts in their applications to perform repetitive tasks or control one application from another.
 
 ### Note: 
-  In this project, I will give you all the overview of Microsoft's COM Technology and various types of COM Dll's Such as **Factory, Containment/Delegation, Aggregation, and Automation**. In Automation Dll, you will also see how this Single DLL can be used by Client Applications those are written in different languages such as **Python, JavaScript, and .NET**.
+  In this project, I will give you all the overview of Microsoft's COM Technology and various types of COM Dll's Such as **Factory, Containment/Delegation, Aggregation, and Automation**. In **Automation Dll**, you will also see how this Single DLL can be used by Client Applications those are written in different languages such as **Python, JavaScript, and .NET**.
+	
