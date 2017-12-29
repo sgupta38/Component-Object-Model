@@ -1,0 +1,4 @@
+LIBRARY	"prop"
+EXPORTS
+DllGetClassObject private
+DllCanUnloadNow private
