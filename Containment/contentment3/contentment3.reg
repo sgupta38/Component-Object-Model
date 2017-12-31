@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{F99F4DF0-3E86-42eb-8734-7C8B184F09B8}]
+@="contentment3"
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{F99F4DF0-3E86-42eb-8734-7C8B184F09B8}\InProcServer32]
+@="C:\\Windows\\SysWOW64\\contentment3.dll"

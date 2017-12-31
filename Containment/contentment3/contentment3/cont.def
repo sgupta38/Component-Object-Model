@@ -1,0 +1,4 @@
+LIBRARY	"contentment3"
+EXPORTS
+DllGetClassObject private
+DllCanUnloadNow private 
